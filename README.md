@@ -1,18 +1,18 @@
 # Khushmart-shrinkage-db
 A database solution to help a retail chain monitor, analyze, and control inventory shrinkage under 1.5% of total sales.
 
-##Organization overview 
+Organization overview 
 **organization:**  Khush Mart (Hypothetical Retail chain)
 **Industry:** Retail
 **Focus area:** Inventory management and shrinkage prevention
 
-##Mission and challenge: 
+Mission and challenge: 
 **Mission:** 
 Reduce inventory losses using a smart, centralized database system.
 **Challenge:** 
 retail shrinkage caused by theft, damage, and data entry errors was reducing profitability and accuracy.
 
-##Objective:
+Objective:
 Khush-mart aims to **reduce shrinkage to less than 1.5% of total sales volume** through efficient tracking and data monitoring.
 
 ---
