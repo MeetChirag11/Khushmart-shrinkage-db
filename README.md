@@ -66,3 +66,21 @@ JOIN
     SALES_TABLE s ON i.ProductID = s.ProductID
 JOIN 
     PRODUCT_TABLE p ON p.ProductID = i.ProductID;
+
+## 📑 Documentation & Assumptions
+
+- Shrinkage includes only theft, damage, and inventory errors  
+- Loss prevention actions (e.g., CCTV) are not tracked  
+- All field names are descriptive and user-friendly  
+- Inventory updates are not real-time  
+
+---
+
+## ⚠️ Limitations
+
+- No POS or live scanning integration  
+- Loss prevention cost tracking not included  
+- Assumes accurate and timely reporting by employees 
+
+## 🤝 Author
+- Meet Chirag
