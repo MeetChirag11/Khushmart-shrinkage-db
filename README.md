@@ -84,3 +84,11 @@ JOIN
 
 ## 🤝 Author
 - Meet Chirag
+
+---
+
+## 📎 Project Files
+
+📊 [Download Full Presentation (PPTX)](./database%20design%20khushmart%20shrinkage%20for%20github.pptx)  
+🖼️ [View Entity Relationship Diagram (JPG)](./entity%20relationships%20diagram.jpg)
+
